@@ -9,7 +9,7 @@
 
 I've been a full stack developer for almost 5 years now. I want to transition to mobile or computer security. Been wanting to get my masters on computer security but It just a dream for now. Currently working on some small projects on the side.
 
-* 🌍  I'm based in Los Angles
+* 🌍  I'm based in California
 * 🖥️  See my portfolio at [artoodeeto](http://artoodeeto.github.io/)
 * ✉️  You can contact me at [raphaelg2012@gmail.com](mailto:raphaelg2012@gmail.com)
 * 🚀  I'm currently working on [LGU Assestment](http://github.com/artoodeeto/mvp-training-frontend)
