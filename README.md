@@ -13,7 +13,8 @@ I've been a full stack developer for almost 5 years now. I want to transition to
 * 🖥️  See my portfolio at [artoodeeto](http://artoodeeto.github.io/)
 * ✉️  You can contact me at [raphaelg2012@gmail.com](mailto:raphaelg2012@gmail.com)
 * 🚀  I'm currently working on [LGU Assestment](http://github.com/artoodeeto/mvp-training-frontend)
-* 🧠  I'm learning Nextjs, c++(for work), geometry
+* 🧠  I'm learning Nextjs, c++(for work), geometry(for work).
+* 🧐  I'm interested in learning RUST, IOS, and Computer Security.
 * ⚡  Currently im on gitlab because of work but im using github for personal projects. :)
 
 <a href="https://www.github.com/artoodeeto" target="_blank" rel="noreferrer"><img
