@@ -6,7 +6,7 @@
 ## Web Developer
 
 -------------
-<a href="https://app.daily.dev/artoo"><img src="https://api.daily.dev/devcards/v2/f9accc3a8ebf4b4384ebd9c3364e3e49.png?type=default&r=lur" width="356" alt="aRtoo's Dev Card"/></a>
+<a href="https://app.daily.dev/artoo"><img src="https://api.daily.dev/devcards/v2/f9accc3a8ebf4b4384ebd9c3364e3e49.png?type=default&r=pgi" width="356" alt="aRtoo's Dev Card"/></a>
 -------------
 
 I've been a full stack developer for almost 5 years now. I want to transition to mobile or computer security. Been wanting to get my masters on computer security but It just a dream for now. Currently working on some small projects on the side.
